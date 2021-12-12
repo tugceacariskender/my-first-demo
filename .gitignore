@@ -1,5 +1,5 @@
- my_git_repo/SixthJavaClass.java
+  src/my_git_repo/EightJavaClass.java 
  
- ../bin/my_git_repo/SixthJavaClass.class
- 
- 
+  bin/my_git_repo/EightJavaClass.class
+  
+  
